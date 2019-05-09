@@ -14,7 +14,6 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 
 @Entity
-@Table 
 public class Utilisateur implements Serializable {
 	/**
 	 * 
